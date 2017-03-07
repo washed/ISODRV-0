@@ -1,0 +1,37 @@
+Title,
+Revision,
+Date,
+Generated,04.03.2017 09:28:05
+Company,
+Comment 1,
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,45
+Total Unique Parts,16
+
+
+
+Ref,Qty,Value,Footprint,
+C3 C1 C2 ,3,100n 50V,Capacitors_SMD:C_0805
+C4 ,1,1µ 50V,Capacitors_SMD:C_0805
+D1 D2 ,2,B360B-FDICT,Diodes_SMD:SMB_Standard
+Q1 Q2 ,2,FDMS7660ASCT,mosfet:Power56
+R19 ,1,0R | 10R,Resistors_SMD:R_0805
+R20 ,1,0 | 10R,Resistors_SMD:R_0805
+R18 R15 R16 R17 ,4,10k,Resistors_SMD:R_0805
+R7 R10 R5 R2 R13 R14 ,6,0R,Resistors_SMD:R_0805
+R8 R11 R6 R3 ,4,1k,Resistors_SMD:R_0805
+R4 R1 ,2,470R,Resistors_SMD:R_0805
+R21 R22 ,2,DNI,Resistors_SMD:R_0805
+R9 R12 ,2,1k8,Resistors_SMD:R_0805
+U3 ,1,2EDN8524R,gate_drivers:PG-TSSOP-8
+U1 U2 ,2,MCT62SDCT,optocouplers:SMT-8 MCT6
+X5 X6 X1 X2 X3 X4 X8 X7 ,8,wirepad,solderpads:THTPAD-1x2
+X12 X11 X10 X9 ,4,wirepad,solderpads:THTPAD-2x4
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 04.03.2017 09:28:05

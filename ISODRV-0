@@ -1,0 +1,55 @@
+Source,C:/Projects/ROFLbrew/ECAD/ISODRV-0/ISODRV-0.sch
+Kicad Rev,Eeschema 4.0.5
+Generated Date,04.03.2017 09:18:12
+
+Title,Not Set
+Company,Not Set
+Revision,Not Set
+Date Issue,Not Set
+
+Reference,Value,Library,Library Ref
+U3,2EDN8524R,gate_drivers,2EDN8524R
+Q1,FDMS7660ASCT,mosfets,FDMS7660ASCT
+Q2,FDMS7660ASCT,mosfets,FDMS7660ASCT
+R19,0R | 10R,device,R
+R20,0 | 10R,device,R
+R18,10k,device,R
+U1,MCT62SDCT,optocouplers,MCT62SDCT
+U2,MCT62SDCT,optocouplers,MCT62SDCT
+R7,0R,device,R
+R10,0R,device,R
+R8,1k,device,R
+R11,1k,device,R
+R15,10k,device,R
+R4,470R,device,R
+R1,470R,device,R
+C3,100n 50V,device,C
+C1,100n 50V,device,C
+C2,100n 50V,device,C
+C4,1µ 50V,device,C
+R21,DNI,device,R
+R22,DNI,device,R
+R5,0R,device,R
+R2,0R,device,R
+R6,1k,device,R
+R3,1k,device,R
+R9,1k8,device,R
+R12,1k8,device,R
+R13,0R,device,R
+R14,0R,device,R
+R16,10k,device,R
+R17,10k,device,R
+D1,B360B-FDICT,device,D_Schottky
+D2,B360B-FDICT,device,D_Schottky
+X5,wirepad,solderpads,wirepad
+X6,wirepad,solderpads,wirepad
+X1,wirepad,solderpads,wirepad
+X2,wirepad,solderpads,wirepad
+X3,wirepad,solderpads,wirepad
+X4,wirepad,solderpads,wirepad
+X8,wirepad,solderpads,wirepad
+X7,wirepad,solderpads,wirepad
+X12,wirepad,solderpads,wirepad
+X11,wirepad,solderpads,wirepad
+X10,wirepad,solderpads,wirepad
+X9,wirepad,solderpads,wirepad
